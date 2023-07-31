@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://raw.githubusercontent.com/RaphaelAntunesMarinhoDeSouza/Inverted_Pendulum/main/images/image.png" width="200px">
+  <img src="https://github.com/RaphaelAntunesMarinhoDeSouza/Imagens/blob/main/IFF/image.png" width="200px">
 </div>
 
 # Inverted_Pendulum
